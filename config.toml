@@ -1,4 +1,14 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "My New Hugo Site"
-theme = "ananke"
+theme = "hugo-kiera"
+
+[author]
+name = "HogeHoge"
+github = "capella903"
+twitter = "capella903"
+
+[params]
+tagline = "A Hugo theme for creative and technical writing"
+description = "Kiera: A Hugo theme for creative and technical writing."
+disableDarkModeCSS = true
